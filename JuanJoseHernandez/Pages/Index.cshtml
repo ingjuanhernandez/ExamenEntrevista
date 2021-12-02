@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenidos a Productos</h1>
+    <div class="row" id="divBotones">
+        <div class="col-4">
+            <label class="btn btn-primary" id="btnBuscar" style="">Buscar Datos</label>
+        </div>
+        <div class="col-4">
+            <label class="btn btn-primary" id="btnSeleccionar" style="">Seleccionar Datos</label>
+        </div>
+    </div>
+    <div class="row" id="divTabla" style="display: none; margin-right: 0px;">
+        <div class="col-12">
+            <div id="Tabla" class="table table-responsive">
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+<script>
+    (function(){
+        $("#btnBuscar").on("click",function(){
+            $.ajax(
+
+            )
+        })
+    })();
+
+</script>
+}   

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bi72QEbfj2lkwO9uG6wB+6vcaQ8g/Q85TKu5xzj8NeUHkNNuEUHtTQVR+56cbJvnxZJbtdCnwPnWg6ljuBePNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorag\\Desktop\\JuanJoseHernandez\\JuanJoseHernandez\\JuanJoseHernandez\\JuanJoseHernandez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorag\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
